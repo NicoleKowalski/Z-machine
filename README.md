@@ -1,2 +1,2 @@
 # Z-machine
-# things
+Term project for ENSC 254
